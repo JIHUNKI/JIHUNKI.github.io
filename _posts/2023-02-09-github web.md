@@ -1,14 +1,13 @@
 ---
 layout: post
 title: web github
-date: 2023-02-09 23:00 +0800
+date: 2023-02-09 23:18 +0800
 last_modified_at: 2023-02-09 01:08:25 +0800
-tags: web
+tags: [ jekyll, tutorial]
 toc:  true
 ---
 
 ### github web
-
 github로 블로그를 만들어 볼까하다가 이미 네이버 블로그/티스토리가 존재하기에 PR용 페이지를 만들면서 작성한 글입니다.
 
 github을 써본 적이 있으시다면 굉장히 쉬운 내용이고 그렇지 않더라도 아래처럼 따라하면 손쉽게 만들 수 있습니다. (깃허브에 가입했다는 전제하에 작성되었습니다.)
